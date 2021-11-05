@@ -4,12 +4,16 @@ The Spacecraft Systems Ontology is an ontology of spacecraft, their subsystems, 
 
 Alternative names: space systems ontology
 
+Related ontologies include [The Spacecraft Ontology](https://github.com/rrovetto/The-Spaceflight-Ontology), which contains a categories of spacecraft.
+
 ### Status
 In-progress. Actively open to financial and other support. 
 License may change.
 
 ## Support
 If you find value in this work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
+
+## 
 
 ## Copyright
 ©2011-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. 
